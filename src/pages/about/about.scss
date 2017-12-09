@@ -1,0 +1,17 @@
+page-about {
+    
+    .photo {
+        height: 150px;
+        width: 120px;
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+        border-radius: 50%;
+    }
+    .background {
+        background-color: color($colors, light_primary)
+    }
+    .title {
+        color: color($colors, accent);
+    }
+}

@@ -1,0 +1,10 @@
+page-cv {
+    .background {
+        background-color: color($colors, light_primary)
+    }
+    .title {
+        color: color($colors, accent);
+        font-size: 125%; 
+    }
+
+}

@@ -1,3 +1,16 @@
 page-login {
+    .social {
+        width: 75px;
+        height: 75px;
+        display: block;
+        margin: auto;
+    }
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+    .color {
+        background-color: color($colors, accent);
+    }
 
 }
